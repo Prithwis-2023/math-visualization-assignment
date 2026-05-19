@@ -58,24 +58,27 @@ This graph compares multiple mathematical functions including:
 - Quadratic function (`y = x²`)
 - Sine wave (`sin(x)`)
 - Damped cosine function
-
-(Add Screenshot Here)
-
+<p align="center">
+  <img width="571" height="453" alt="function_plot" src="https://github.com/user-attachments/assets/d7559d3c-bab0-495b-aa86-b6f5c4b1cada" />
+</p>
 ---
 
 ## 2. Parametric Heart Curve
 
 A heart-shaped curve generated using trigonometric parametric equations.
-
-(Add Screenshot Here)
-
+<p align="center">
+  <img width="574" height="453" alt="own_equation" src="https://github.com/user-attachments/assets/edad470e-c475-45a6-a6c4-1a06f94d43e4" />
+</p>
 ---
 
 ## 3. Student Score Distribution
 
 Histogram and bar chart visualizations showing score distributions and aggregate performance.
+<p align="center">
+  <img width="45%" height="433" alt="score_histogram" src="https://github.com/user-attachments/assets/d2641a78-c8a1-4d51-97b0-567f2b32c87e" />
+  <img width="45%" height="433" alt="score_bar_chart" src="https://github.com/user-attachments/assets/1b380bf0-092f-486d-8624-be6aadcf7c54" />
+</p>
 
-(Add Screenshot Here)
 
 ---
 
